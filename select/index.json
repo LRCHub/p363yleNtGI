@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "私は、私達は",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2025-12-05T14:31:04.627049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私は、私達は (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_私は、私達は_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私は、私達は",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン",
+      "has_synced": true,
+      "path": "select/02_私は、私達は_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私は、私達は",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/03_私は、私達は_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私は、私達は - We are (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_私は、私達は_-_We_are_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私は、私達は",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_私は、私達は_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私は、私達は (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/06_私は、私達は_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私は、私達は (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 & 鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_私は、私達は_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&_鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "私は、私達は (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP！;鏡音レン",
+      "has_synced": true,
+      "path": "select/08_私は、私達は_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!;鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "私は、私達は",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine Len",
+      "has_synced": true,
+      "path": "select/09_私は、私達は_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine_Len.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "私は、私達は (instrumental)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/10_私は、私達は_(instrumental)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は、私達は (feat. 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫 & 鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_私は、私達は_(feat._花里みのり,_桐谷遥,_桃井愛莉,_日野森雫_&_鏡音レン)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
